@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aayush Chauhan</h1>
-<h3 align="center">Senior Software Engineer</h3>
+<h3 align="center">Lead Software Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aayush-brainerhub&label=Profile%20views&color=0e75b6&style=flat" alt="aayush-brainerhub" /> </p>
 
